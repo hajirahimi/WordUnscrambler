@@ -1,0 +1,8 @@
+D:\GitHub\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+D:\GitHub\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+D:\GitHub\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+D:\GitHub\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.AssemblyReference.cache
+D:\GitHub\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+D:\GitHub\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+D:\GitHub\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
